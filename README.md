@@ -1,0 +1,2 @@
+# network
+Gentoo network config
